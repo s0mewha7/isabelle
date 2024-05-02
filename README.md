@@ -1,7 +1,7 @@
 # Isabelle - UCI Chess Engine
 
 <div style="text-align:center;">
-    <img src="image.png" width="150" height="150">
+    <img src="image.png" width="200" height="200">
 </div>
 
 *Isabelle* is a Open Source UCI (Universal Chess Interface) compatible chess engine written in C++. It is designed to provide strong chess-playing capabilities while being lightweight and easy to integrate into various chess-related applications. She currently has an estimated playing strength of 1600+ ELO.
